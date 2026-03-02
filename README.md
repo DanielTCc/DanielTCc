@@ -1,21 +1,27 @@
-## Hi there 👋
+# Hola mundo, I'm Daniel 
+
+🎓 Engineering Student  
+💻 Backend-focused Developer  
+📚 Interested in software development and database systems  
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
 ### GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanielTCc&theme=dark)](https://git.io/streak-stats)
 
-<!--
-**DanielTCc/DanielTCc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-### GitHub stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanielTCc&theme=dark)](https://git.io/streak-stats)
+---
